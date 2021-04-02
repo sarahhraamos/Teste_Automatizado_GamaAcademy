@@ -3,7 +3,7 @@
 
 # Teste_Automatizado_GamaAcademy
 <br>
-<b>Objetivo:</b> O objetivo era fazer o teste automatizado com o site da [Gama](https://www.gama.academy/?gclid=CjwKCAjwgZuDBhBTEiwAXNofRH72c4zcKAViB5mjYF2CNPL1ij_guGMW2SUm8m_xk_W8GzxRWJJOCxoCIZIQAvD_BwE) testando algumas funcionalidades básicas do site.
+<b>Objetivo:</b> O objetivo era fazer o teste automatizado com o site da Gama Academy, testar algumas funcionalidades básicas do site.
 
 <br>
 <br>
@@ -64,7 +64,7 @@ Entao devo ver as opcoes<br>
 - Clone do projeto.<br>
 `` git clone https://github.com/sarahhraamos/Teste_Automatizado.GamaAcademy.git ``
 - Entrando na pasta do projeto<br>
-`` cd TesteIndividual_Accenture ``
+`` cd Teste_Automatizado.GamaAcademy ``
 - Fazer o download do [Chrome Webdriver](https://chromedriver.chromium.org/downloads) e colocar o arquivo descompactado dentro da pasta driver na raiz do projeto:<br>
 <b>Exemplo:</b><br>
 ``cd driver``<br>
