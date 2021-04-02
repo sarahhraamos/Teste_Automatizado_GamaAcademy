@@ -3,13 +3,13 @@
 
 # Teste_Automatizado_GamaAcademy
 <br>
-<b>Objetivo:</b> O objetivo era fazer o teste automatizado com o [site da Gama](https://www.gama.academy/?gclid=CjwKCAjwgZuDBhBTEiwAXNofRH72c4zcKAViB5mjYF2CNPL1ij_guGMW2SUm8m_xk_W8GzxRWJJOCxoCIZIQAvD_BwE) testando algumas funcionalidades básicas do site.
+<b>Objetivo:</b> O objetivo era fazer o teste automatizado com o site da [Gama](https://www.gama.academy/?gclid=CjwKCAjwgZuDBhBTEiwAXNofRH72c4zcKAViB5mjYF2CNPL1ij_guGMW2SUm8m_xk_W8GzxRWJJOCxoCIZIQAvD_BwE) testando algumas funcionalidades básicas do site.
 
 <br>
 <br>
 
 ## Caso de Teste :red_circle: <br>
-O objetivo e acessar o site e ver o item Manifesto.<br>
+O objetivo é acessar o site e ver o item Manifesto.<br>
 <b>Cenario I:</b> Entrar o site da Gama Academy e clicar na opcao quem somos<br>
 Dado que eu estou no site da gama academy<br>
 Entao eu fecho a propaganda<br>
@@ -20,14 +20,13 @@ Entao devo ver a palavra "Manifesto"<br>
 
 ## Caso de Teste II :red_circle: <br>
 Entrar no site Gama Academy e clicar nas opcoes<br>
-<br>
 <b>Cenario I:</b> Entrar no site Gama Academy Products e ver o botao comprar<br>
 Dado que eu estou no site da gama academy products<br>
 E cliclo na opcao Quero ir para proximo nivel<br>
 Entao devo ver o valor e o botao comprar agora<br>
 <br>
-<b>Cenario II:</b> Entrar no site Gama Academy e ver uma lista de opcoes<br>
 <br>
+<b>Cenario II:</b> Entrar no site Gama Academy e ver uma lista de opcoes<br>
 Dado que eu estou no site da gama academy<br>
 Entao eu fecho a propaganda<br>
 E cliclo na opcao DEV FULL STACK<br>
