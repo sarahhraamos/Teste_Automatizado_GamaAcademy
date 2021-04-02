@@ -3,19 +3,21 @@
 
 # Teste_Automatizado_GamaAcademy
 <br>
-<b>Objetivo:</b> O objetivo era fazer o teste automatizado com o [site da Gama](https://www.gama.academy/?gclid=CjwKCAjwgZuDBhBTEiwAXNofRH72c4zcKAViB5mjYF2CNPL1ij_guGMW2SUm8m_xk_W8GzxRWJJOCxoCIZIQAvD_BwE), testando algumas funcionalidades básicas do site.
+<b>Objetivo:</b> O objetivo era fazer o teste automatizado com o [site da Gama](https://www.gama.academy/?gclid=CjwKCAjwgZuDBhBTEiwAXNofRH72c4zcKAViB5mjYF2CNPL1ij_guGMW2SUm8m_xk_W8GzxRWJJOCxoCIZIQAvD_BwE) testando algumas funcionalidades básicas do site.
 
 <br>
 <br>
+
 ## Caso de Teste :red_circle: <br>
 O objetivo e acessar o site e ver o item Manifesto.<br>
-<b>Cenario I:</b> Entrar o site da Gama Academy e clicar na opcao quem somos
-Dado que eu estou no site da gama academy
-Entao eu fecho a propaganda
-E clico na opcao Quem somos
-Entao devo ver a palavra "Manifesto"
+<b>Cenario I:</b> Entrar o site da Gama Academy e clicar na opcao quem somos<br>
+Dado que eu estou no site da gama academy<br>
+Entao eu fecho a propaganda<br>
+E clico na opcao Quem somos<br>
+Entao devo ver a palavra "Manifesto"<br>
 <br>
 <br>
+
 ## Caso de Teste II :red_circle: <br>
 Entrar no site Gama Academy e clicar nas opcoes<br>
 <br>
@@ -37,6 +39,7 @@ Entao devo ver as opcoes<br>
 <br>
 <br>
 <br>
+
 ## Tecnologias utilizadas :heart_eyes: <br>
  :white_check_mark: <b>Java</b><br>
 > Linguagem de programação para desenvolvimento da aplicação.<br>
